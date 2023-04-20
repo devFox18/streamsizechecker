@@ -1,5 +1,5 @@
 -- Script created a long time ago, by Foxtery#5526
--- Check if a streamfile is bigger then 10mb if so it print a warning in the Console.
+-- Check if a streamfile is bigger then 10mb if so it print a warning in the Console. (You can change this yourself, if you want too)
 -- I don't offer support for this plugin anymore.
 
 function PrintLoadedStreamfileSizes()
