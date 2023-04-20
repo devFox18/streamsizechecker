@@ -19,6 +19,7 @@ PrintLoadedStreamfileSizes() - scans the game's stream/ directory and displays t
 fileLength(path) - returns the size of a file in bytes.
 
 **Notes**
+
 This script can be useful to check if the size of stream files in the game's stream/ directory is not causing unnecessary lag during gameplay. However, checking stream file sizes is not guaranteed to solve all possible lag issues.
 
 **Credits**
